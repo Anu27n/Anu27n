@@ -82,7 +82,7 @@
 <h3 align="left">Certifications:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/9135cb7e-8c7c-4a8b-9b74-884427843044/public_url">
-    <img src="https://drive.google.com/file/d/1q8UrLhXUubkNqAPimkKxWdMvSn0EXSjQ/view?usp=sharing" alt="AWS Certified Cloud Practitioner" width="100px">
+    <img src="https://imgur.com/a/Kho0cmX" width="100px">
   </a>
 </p>
 
