@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/anubhav-jain27n/**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anubhav3454535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anubhav3454535" height="30" width="40" /></a>
@@ -77,7 +76,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu27n&show_icons=true&locale=en" alt="anu27n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu27n&" alt="anu27n" /></p>
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
