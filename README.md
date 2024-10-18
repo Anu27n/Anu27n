@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anubhav+Jain!;" />
 </h1>
 
-<h3 align="center">A passionate Developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu27n&label=Profile%20views&color=0e75b6&style=flat" alt="anu27n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anu27n" alt="anu27n" /></a> </p>
