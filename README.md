@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next Js, AI-ML, DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/anubhav-jain27n//**
+- 📫 How to reach me **anubhav27nov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
