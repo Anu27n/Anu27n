@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anubhav Jain</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anubhav+Jain!;" />
+</h1>
+
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anu27n&label=Profile%20views&color=0e75b6&style=flat" alt="anu27n" /> </p>
 
@@ -8,11 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/anubhav3454535" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav3454535?logo=twitter&style=for-the-badge" alt="anubhav3454535" /></a> </p>
 
-- 🌱 I’m currently learning **React Js, AI-ML**
+- 🌱 I’m currently learning **Next Js, AI-ML, DSA**
 
-- 💬 Ask me about **Java, C, C++, Python**
-
-- 📫 How to reach me **https://www.linkedin.com/in/anubhav-jain27n/**
+- 📫 How to reach me **https://www.linkedin.com/in/anubhav-jain27n//**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -76,11 +76,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu27n&show_icons=true&locale=en" alt="anu27n" /></p>
 
-
 <h3 align="left">Certifications:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/9135cb7e-8c7c-4a8b-9b74-884427843044/public_url">
-    <img src="https://imgur.com/a/Kho0cmX" width="100px">
+    <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-81f45bc/www.ciat.edu/wp-content/uploads/2020/12/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" width="100px" alt="AWS Certified Cloud Practitioner Badge">
   </a>
 </p>
 
