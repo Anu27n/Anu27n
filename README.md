@@ -41,13 +41,13 @@
 <br/>
 <div align="center">
     <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp,r,matlab" />
     <br>
     <!-- Frameworks and Tools -->
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,mongodb,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap,tailwind,mongodb,aws" />
     <br>
     <!-- Other Tools -->
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify,firebase,ubuntu" />
 </div>
 
 <br/>
