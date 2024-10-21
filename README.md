@@ -39,15 +39,42 @@
 
 <h2 align="center">🛠️ Languages-Frameworks-Tools:</h2> 
 <br/>
+
 <div align="center">
-    <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp,r,matlab" />
-    <br>
-    <!-- Frameworks and Tools -->
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,bootstrap,tailwind,mongodb,aws" />
-    <br>
-    <!-- Other Tools -->
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify,firebase,ubuntu" />
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
+<img src="https://skillicons.dev/icons?i=c" alt="C" title="C"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/>
+<img src="https://skillicons.dev/icons?i=r" alt="R" title="R"/>
+<img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" title="MATLAB"/>
+<br>
+
+<!-- Frameworks and Tools -->
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS"/>
+<br>
+
+<!-- Other Tools -->
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel"/>
+<img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" title="Netlify"/>
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu"/>
+
 </div>
 
 <br/>
