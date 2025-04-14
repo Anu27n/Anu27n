@@ -1,10 +1,18 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anubhav+Jain!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anubhav+Jain!;Nice+to+meet+you!&color=A020F0&center=true&width=500&height=70" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anu27n&label=Thanks+for+visiting!&color=0e75b6&style=flat" alt="anu27n" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver;Chess+Player" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anu27n&label=Thanks+for+visiting!&color=FF69B4&style=flat" alt="anu27n" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg" alt="Made with love">
+</p>
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
