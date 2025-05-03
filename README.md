@@ -105,7 +105,7 @@
 ### 📜 Certifications:
 <p align="left">
   <a href="https://www.credly.com/badges/9135cb7e-8c7c-4a8b-9b74-884427843044/public_url">
-    <img src="https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-81f45bc/www.ciat.edu/wp-content/uploads/2020/12/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" width="150px" alt="AWS Certified Cloud Practitioner Badge">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="150px" alt="AWS Certified Cloud Practitioner Badge">
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
