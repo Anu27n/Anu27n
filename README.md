@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver;Chess+Player" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,14 +15,15 @@
 
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anu27n&theme=onestar&no-frame=true" alt="anu27n" />
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 About Me:
+### <h2> <picture><img src = "https://github.com/anu27n/anu27n/blob/main/about_me.gif" width = 35px></picture> About me </h2>
 - 🌱 I’m currently learning **Next.js, AI-ML, DSA**  
 - 💬 Ask me about **Web Development, AWS Cloud, Data Structures**  
 - 📫 How to reach me: **anubhav27nov@gmail.com**  
