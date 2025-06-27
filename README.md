@@ -108,11 +108,18 @@
   <a href="https://www.credly.com/badges/9135cb7e-8c7c-4a8b-9b74-884427843044/public_url">
     <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="150px" alt="AWS Certified Cloud Practitioner Badge">
   </a>
+  
   <!-- Azure AZ-900 Badge -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnubhavJain-5743/56779C18AAA63C5A?sharingId=8FC21173E80DF477">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1z5XvAwS8G_ojSep2CpJdkYJ7MhpUvJ_8g&s" width="150px" alt="Microsoft Certified: Azure Fundamentals Badge">
   </a>
+  
+  <!-- GitHub Foundations Badge -->
+  <a href="https://www.credly.com/badges/7fdf4edb-f57b-4171-b107-a78bf1770dfe/public_url">
+    <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" alt="GitHub Foundations Badge">
+  </a>
 </p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
