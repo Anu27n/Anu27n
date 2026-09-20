@@ -99,10 +99,7 @@ Stack
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anubhav-jain27n/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
   <a href="https://anubhav.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Open-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
